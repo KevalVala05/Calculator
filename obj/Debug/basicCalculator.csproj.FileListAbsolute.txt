@@ -1,0 +1,8 @@
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe.config
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\bin\Debug\basicCalculator.exe
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\bin\Debug\basicCalculator.pdb
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.AssemblyReference.cache
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.exe
+C:\Users\ODEV-34\source\repos\basicCalculator\basicCalculator\obj\Debug\basicCalculator.pdb
